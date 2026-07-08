@@ -12,3 +12,134 @@ private:
         return valid(node->left, minimum, node->val) && valid(node->right, node->val, maximum);
     }
 };
+
+Binary Tree Inorder Traversal
+
+class Solution {
+public:
+    vector<int> ans;
+
+    void inorder(TreeNode* root) {
+        if (root == nullptr)
+            return;
+
+        inorder(root->left);
+        ans.push_back(root->val);
+        inorder(root->right);
+    }
+
+    vector<int> inorderTraversal(TreeNode* root) {
+        inorder(root);
+        return ans;
+    }
+};
+
+
+Construct A Binary Search Tree From Preorder Traversal
+
+class Solution {
+public:
+    int idx = 0;
+
+    TreeNode* build(vector<int>& preorder, int bound) {
+        if (idx == preorder.size() || preorder[idx] > bound)
+            return nullptr;
+
+        TreeNode* root = new TreeNode(preorder[idx++]);
+
+        root->left = build(preorder, root->val);
+        root->right = build(preorder, bound);
+
+        return root;
+    }
+
+    TreeNode* bstFromPreorder(vector<int>& preorder) {
+        return build(preorder, INT_MAX);
+    }
+};
+
+Burning Tree
+
+class Solution {
+  public:
+ void markParents(Node* root, unordered_map<Node*, Node*>& parent) {
+        queue<Node*> q;
+        q.push(root);
+
+        while (!q.empty()) {
+            Node* curr = q.front();
+            q.pop();
+
+            if (curr->left) {
+                parent[curr->left] = curr;
+                q.push(curr->left);
+            }
+
+            if (curr->right) {
+                parent[curr->right] = curr;
+                q.push(curr->right);
+            }
+        }
+    }
+
+    Node* findTarget(Node* root, int target) {
+        if (!root) return nullptr;
+
+        if (root->data == target)
+            return root;
+
+        Node* left = findTarget(root->left, target);
+        if (left) return left;
+
+        return findTarget(root->right, target);
+    }
+
+    int minTime(Node* root, int target) {
+        unordered_map<Node*, Node*> parent;
+        markParents(root, parent);
+
+        Node* targetNode = findTarget(root, target);
+
+        queue<Node*> q;
+        unordered_map<Node*, bool> vis;
+
+        q.push(targetNode);
+        vis[targetNode] = true;
+
+        int time = 0;
+
+        while (!q.empty()) {
+            int sz = q.size();
+            bool burned = false;
+
+            while (sz--) {
+                Node* curr = q.front();
+                q.pop();
+
+                if (curr->left && !vis[curr->left]) {
+                    vis[curr->left] = true;
+                    q.push(curr->left);
+                    burned = true;
+                }
+
+                if (curr->right && !vis[curr->right]) {
+                    vis[curr->right] = true;
+                    q.push(curr->right);
+                    burned = true;
+                }
+
+                if (parent.count(curr) && !vis[parent[curr]]) {
+                    vis[parent[curr]] = true;
+                    q.push(parent[curr]);
+                    burned = true;
+                }
+            }
+
+            if (burned)
+                time++;
+        }
+
+        return time;
+    }
+};
+
