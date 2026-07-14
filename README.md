@@ -25,4 +25,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0767-reorganize-string) |
+## Array
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0307-range-sum-query-mutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0307-range-sum-query-mutable) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
