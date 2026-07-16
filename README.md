@@ -45,4 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0307-range-sum-query-mutable) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
