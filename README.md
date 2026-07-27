@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0547-number-of-provinces) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/1661-average-time-of-process-per-machine) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/1757-recyclable-and-low-fat-products) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Shortest Path
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
