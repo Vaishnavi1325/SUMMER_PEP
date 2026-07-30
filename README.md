@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0176-second-highest-salary) |
+| [0184-department-highest-salary](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0577-employee-bonus) |
