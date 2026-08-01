@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0767-reorganize-string](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0767-reorganize-string](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0767-reorganize-string) |
 ## Counting
 |  |
@@ -36,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0307-range-sum-query-mutable) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0307-range-sum-query-mutable) |
 ## Design
 |  |
@@ -103,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
