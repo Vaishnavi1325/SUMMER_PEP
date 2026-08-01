@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0767-reorganize-string) |
 ## String
 |  |
@@ -20,17 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0767-reorganize-string) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0767-reorganize-string) |
 ## Array
 |  |
@@ -40,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -47,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -111,4 +117,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
