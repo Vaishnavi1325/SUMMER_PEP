@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0125-valid-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0767-reorganize-string) |
 ## Greedy
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
