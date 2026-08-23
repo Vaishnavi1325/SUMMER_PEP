@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0307-range-sum-query-mutable) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0692-top-k-frequent-words) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
