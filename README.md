@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0692-top-k-frequent-words) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
 |  |
