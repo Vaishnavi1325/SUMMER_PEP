@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0215-kth-largest-element-in-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0307-range-sum-query-mutable) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0053-maximum-subarray) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
