@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0692-top-k-frequent-words) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0125-valid-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0767-reorganize-string) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaishnavi1325/SUMMER_PEP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
